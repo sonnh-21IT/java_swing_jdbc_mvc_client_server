@@ -1,0 +1,27 @@
+<?xml version = "1.0"?>
+<productlist>
+	<product>
+		<id>PD006</id>
+		<name>Sofa</name>
+		<type>Nội Thất</type>
+		<src>Nước Ngoài</src>
+		<producer>Test</producer>
+		<price>19900000</price>
+	</product>
+	<product>
+		<id>PD005</id>
+		<name>Tua Vít</name>
+		<type>Dụng Cụ Sửa Chữa</type>
+		<src>Nước Ngoài</src>
+		<producer>Test</producer>
+		<price>29000</price>
+	</product>
+	<product>
+		<id>PD008</id>
+		<name>Bàn Học Mini</name>
+		<type>Đồ Dùng Học Tập</type>
+		<src>Trong Nước</src>
+		<producer>Test</producer>
+		<price>180000</price>
+	</product>
+</productlist>

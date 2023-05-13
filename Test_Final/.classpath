@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84984/Documents/CODE__Java/Test_Final/sqljdbc_9.4/enu/mssql-jdbc-9.4.1.jre16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/84984/Documents/CODE__Java/Test_Final/thuvienpoi/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/84984/Documents/CODE__Java/Test_Final/thuvienpoi/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/84984/Documents/CODE__Java/Test_Final/thuvienpoi/xmlbeans-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/84984/Documents/CODE__Java/Test_Final/thuvienpoi/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/84984/Documents/CODE__Java/Test_Final/thuvienpoi/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/84984/Documents/CODE__Java/Test_Final/thuvienpoi/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/84984/Documents/CODE__Java/Test_Final/thuvienpoi/commons-compress-1.18.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

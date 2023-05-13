@@ -1,0 +1,19 @@
+<?xml version = "1.0"?>
+<bikeList>
+	<bike>
+		<id>PD006</id>
+		<nguoimuon>Tú</nguoimuon>
+		<tuoi>19</tuoi>
+		<lienhe>0984399784</lienhe>
+		<thoigian>6 ngày</thoigian>
+		<thuoctinh>khác</thuoctinh>
+	</bike>
+	<bike>
+		<id>PD007</id>
+		<nguoimuon>Phương</nguoimuon>
+		<tuoi>20</tuoi>
+		<lienhe>0984399784</lienhe>
+		<thoigian>6 ngày</thoigian>
+		<thuoctinh>khác</thuoctinh>
+	</bike>
+</bikeList>

@@ -1,0 +1,11 @@
+<?xml version = "1.0"?>
+<productlist>
+	<product>
+		<id>PD006</id>
+		<name>Test</name>
+		<num>12</num>
+		<src>Nội Địa</src>
+		<provided>Test</provided>
+		<price>18000000</price>
+	</product>
+</productlist>
